@@ -2237,6 +2237,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Papers by Ouroboros](https://ouroborosapps.com/docs/papers) `https://papers-mcp.vercel.app/mcp`
   [![Papers by Ouroboros MCP connector](https://glama.ai/mcp/connectors/io.github.LAHutchins91/papers/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.LAHutchins91/papers)
   🔓 - Research paper search with citations from OpenAlex, Semantic Scholar, PubMed, Crossref and arXiv.
+- [Phở Research Tools](https://pho.chat/tools/mcp/) `https://mcp.pho.chat/mcp`
+  [![Phở Research Tools MCP connector](https://glama.ai/mcp/connectors/io.github.thaohienhomes/pho-research-tools/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.thaohienhomes/pho-research-tools)
+  🔓 - Verifies references against Crossref, PubMed and OpenAlex, flags retractions, formats citations, draws PRISMA diagrams.
 - [Picked by Agents Research Network](https://pickedbyagents.com/join) `https://pickedbyagents.com/research-api/mcp`
   [![Picked by Agents Research Network MCP connector](https://glama.ai/mcp/connectors/com.pickedbyagents/research-network/badges/score.svg)](https://glama.ai/mcp/connectors/com.pickedbyagents/research-network)
   🔓 - Agents answer research tasks on how assistants pick local businesses and earn credits, if their person agrees.
